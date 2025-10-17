@@ -1,0 +1,25 @@
+# Image Placeholders
+
+This directory should contain the following images for your portfolio:
+
+## Required Images:
+- profile.jpg - Your professional headshot (300x300px recommended)
+- about-photo.jpg - Additional photo for about page
+- project1.jpg - Screenshot of your first project
+- project2.jpg - Screenshot of your second project
+- project3.jpg - Screenshot of your third project
+- project4.jpg - Screenshot of your fourth project
+- project5.jpg - Screenshot of your fifth project
+- project6.jpg - Screenshot of your sixth project
+
+## Image Guidelines:
+- Use high-quality images
+- Optimize for web (compress without losing quality)
+- Use consistent aspect ratios
+- Consider using WebP format for better performance
+- Ensure images are properly licensed or royalty-free
+
+## Fallback:
+The website includes placeholder icons that will display if images are not found, so the site will work even without custom images.
+
+
